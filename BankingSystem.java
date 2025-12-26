@@ -16,3 +16,11 @@ public class BankingSystem {
     }
 
 }
+class myName{
+	public void name() {
+		System.out.println("Aaditya Kafle");
+	}
+	public void studentName() {
+		System.out.println("Ram");
+	}
+}
