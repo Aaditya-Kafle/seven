@@ -14,5 +14,7 @@ public class DatabaseConnection {
     public boolean isConnected() {
         return connected;
     }
-
+   public void anyKind() {
+	   System.out.println("penguin");
+   }
 }
